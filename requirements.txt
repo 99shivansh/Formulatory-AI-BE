@@ -8,9 +8,9 @@ groq==0.9.0
 huggingface-hub==0.24.0
 ollama==0.3.0
 openai==1.51.0
-langchain==0.3.1
-langchain-openai==0.2.1
-langchain-community==0.3.1
+langchain==0.3.7
+langchain-openai==0.2.7
+langchain-community==0.3.7
 
 # Data validation and settings
 pydantic==2.9.2
